@@ -13,8 +13,8 @@ $districts_latlng = Array
 (
 		'Achham' => Array
 			(
-				lat => 29.05,
-				long => 81.3
+				'lat' => 29.05,
+				'long' => 81.3
 			),
 
 		'Arghakhanchi' => Array
