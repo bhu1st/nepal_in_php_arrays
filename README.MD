@@ -1,21 +1,24 @@
-/*
+/******
  * @Some Rights with Bhupal Sapkota
  * @link http://github.com/bhu1st/nepal_in_php_arrays
  * @author Bhupal Sapkota (sapkotabhupal@gmail.com)
  * @url http://bhu1st.blogspot.com
  * @remark please link back to my blog if you use it.
- */
+ ****/
  
- What is Nepal in PHP Arrays - Project ?
- ------------------------------------------
- Are you a PHP developer? or say you use MySQL in your projects. How many of have easier access to the places & cities of Nepal in simpler arrays, that can be taken for reference and used. I am currently involved in a project named Gharbeti.com (http://www.gharbeti.com) and got in situation where i need to use the places in Kathmandu to implement the site theme - Gharbeti.com - Rentals In Kathmandu. 
+What is Nepal in PHP Arrays - Project ?
+------------------------------------------
+
+Are you a PHP developer? or say you use MySQL in your projects. How many of have easier access to the places & cities of Nepal in simpler arrays, that can be taken for reference and used. I am currently involved in a project named Gharbeti.com (http://www.gharbeti.com) and got in situation where i need to use the places in Kathmandu to implement the site theme - Gharbeti.com - Rentals In Kathmandu. 
  
- I was searching through web, searching for some arrays of places, cities, districts headquarters etc. But i was not lucky enough to find them. Instead i thought i would search for places and list them as PHP Arrays or MySQL tables. This http://en.wikipedia.org/wiki/Districts_of_Nepal wiki page was handy though. 
+I was searching through web, searching for some arrays of places, cities, districts headquarters etc. But i was not lucky enough to find them. Instead i thought i would search for places and list them as PHP Arrays or MySQL tables. This http://en.wikipedia.org/wiki/Districts_of_Nepal wiki page was handy though. 
  
- There is a project named PHP Arrays - http://github.com/debuggable/php_arrays I was solely inspired by this project. But, limiting myself to my country i decided to list resources related to Nepal in PHP arrays. This is how all it begun. 
+There is a project named PHP Arrays - http://github.com/debuggable/php_arrays I was solely inspired by this project. But, limiting myself to my country i decided to list resources related to Nepal in PHP arrays. This is how all it begun. 
  
- What is included in this project till now (8/12/2010 AD - 2067/4/27 BS): 
- -------------------------------------------
+
+What is included in this project
+--------------------------------
+
  1. Places In Kathmandu - PHP Array & MySQL table
  -> listing of most popular places in Kathmandu. 
 	-places_in_kathmandu.php
@@ -52,12 +55,5 @@ List of files:
 3. places_in_kathmandu.php - PHP Array for places in Kathmandu
 4. places_in_kathmandu.sql - MySQL table for places in Kathmandu
 5. readme.txt - this file 
-
----------------------
-Add new files below
----------------------
-6. 
-
-
 
 
