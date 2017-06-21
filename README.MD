@@ -1,8 +1,12 @@
 
 @Some Rights with Bhupal Sapkota
+
 @link http://github.com/bhu1st/nepal_in_php_arrays
+
 @author Bhupal Sapkota (sapkotabhupal@gmail.com)
+
 @url http://bhu1st.blogspot.com
+
 @remark please link back to my blog if you use it.
 
 What is Nepal in PHP Arrays - Project ?
