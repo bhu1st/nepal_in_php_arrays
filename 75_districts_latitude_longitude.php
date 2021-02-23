@@ -3,7 +3,7 @@
 /*
  * @Some Rights with Bhupal Sapkota
  * @link http://github.com/bhu1st/nepal_in_php_arrays
- * @author Bhupal Sapkota (sapkotabhupal@gmail.com)
+ * @author Bhupal Sapkota
  * @url http://bhu1st.blogspot.com
  * @sth if you are using this, don't forget to thank me :)
  */
